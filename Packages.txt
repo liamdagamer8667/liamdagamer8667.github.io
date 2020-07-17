@@ -1,0 +1,13 @@
+Package: com.liamdagamer8667.[PMT]Call_of_Duty__Mobile_VN_v1.8.15_JB-MOD_Platinmods
+Version: 1.8.15
+Architecture: iphoneos-arm
+Maintainer: liamdagamer8667 <liamdagamer8667@gmail.com>
+Filename: /[PMT]Call_of_Duty__Mobile_VN_v1.8.15_JB-MOD_Platinmods.deb
+Size: 180236
+MD5sum: d17078a94f7c21018d7ab8556ccae3d1
+SHA1: ee8207ddfab2e98bdb99fb3e3f81241ca2e60357
+SHA256: 6e48150f216b68f29ef6d5393fd2fe0b4f9175ff128aece8cd0b74ff9769b8b7
+Section: Tweaks
+Description: CODM Hacks, 100% credits to platimmods.com
+Author: liamdagamer8667 <liamdagamer8667@gmail.com>
+Name: CODM Hacks
